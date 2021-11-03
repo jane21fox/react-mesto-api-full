@@ -1,0 +1,8 @@
+.container__button {
+    cursor: pointer;
+    transition: opacity .5s ease;
+}
+
+.container__button:hover {
+    opacity: .6;
+}

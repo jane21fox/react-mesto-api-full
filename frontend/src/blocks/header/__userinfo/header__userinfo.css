@@ -1,0 +1,15 @@
+.header__userinfo {
+    margin: 0 24px 0 0;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1.21;
+}
+
+/* @media screen and (max-width: 900px) {
+    .header__userinfo {
+        margin-right: 0;
+        margin-bottom: 18px;
+        margin-top: 40px;
+    }
+} */

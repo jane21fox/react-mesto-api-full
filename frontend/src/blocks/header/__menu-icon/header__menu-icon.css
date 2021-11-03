@@ -1,0 +1,14 @@
+.header__menu-icon {
+    display: none;
+    grid-area: menu;
+}
+
+.header__menu-icon:hover {
+    opacity: .6;
+}
+
+@media screen and (max-width: 900px) {
+    .header__menu-icon {
+        display: block;
+    }
+}

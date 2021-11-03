@@ -1,0 +1,16 @@
+.auth_info {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(1, min-content);
+    row-gap: 30px;
+    border: 0;
+    padding: 0;
+    margin: 50px 0 216px;
+}
+
+@media screen and (max-width: 767px) {
+    .auth_info {
+        margin-bottom: 173px;
+        margin-top: 40px;
+    }
+}

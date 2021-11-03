@@ -1,0 +1,16 @@
+.popup__info {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(1, min-content);
+    row-gap: 30px;
+    border: 0;
+    padding: 0;
+    margin: 54px 0 48px;
+}
+
+@media screen and (max-width: 767px) {
+    .popup__info {
+        margin-top: 75px;
+        margin-bottom: 45px;
+    }
+}

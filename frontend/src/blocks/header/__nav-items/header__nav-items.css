@@ -1,0 +1,15 @@
+.header__nav-items {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    grid-area: nav;
+}
+
+@media screen and (max-width: 900px) {
+    .header__nav-items {
+        margin-bottom: 40px;
+    }
+}
