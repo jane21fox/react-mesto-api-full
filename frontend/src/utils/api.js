@@ -113,8 +113,8 @@ class Api {
 }
 
 const api = new Api({
-    // url: 'https://mesto.nomoreparties.co/v1/cohort-26',
-    url: 'http://localhost:3000',
+    // url: 'http://localhost:3000',
+    url: 'http://api.mesto-jane21fox.nomoredomains.xyz',
     // headers: {
     //     authorization: `Bearer ${token}`,
     //     'Content-Type': 'application/json'
