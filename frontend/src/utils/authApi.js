@@ -1,5 +1,5 @@
 // export const BASE_URL = 'http://localhost:3000';
-export const BASE_URL = 'http://api.mesto-jane21fox.nomoredomains.xyz';
+export const BASE_URL = 'https://api.mesto-jane21fox.nomoredomains.xyz';
 
 const handleResponse = (res) => {
     if(res.ok) {

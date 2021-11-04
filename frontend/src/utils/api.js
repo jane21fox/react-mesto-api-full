@@ -114,7 +114,7 @@ class Api {
 
 const api = new Api({
     // url: 'http://localhost:3000',
-    url: 'http://api.mesto-jane21fox.nomoredomains.xyz',
+    url: 'https://api.mesto-jane21fox.nomoredomains.xyz',
     // headers: {
     //     authorization: `Bearer ${token}`,
     //     'Content-Type': 'application/json'
